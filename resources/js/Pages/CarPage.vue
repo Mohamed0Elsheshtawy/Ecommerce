@@ -24,7 +24,7 @@
     style="border: solid 1px black; text-transform: none;"
     class="w-25 rounded-xl mx-0" variant="outlined" density="compact" height="50">
     Continue Shopping</v-btn>
-<!--{{ calcTotalPrice }}-->
+<!--{{ calcTotalPrice  }}-->
 
 </v-card-actions>
                         <div class="bar-parent mt-5 mb-1 position-relative" v-if="cartItems.length">
